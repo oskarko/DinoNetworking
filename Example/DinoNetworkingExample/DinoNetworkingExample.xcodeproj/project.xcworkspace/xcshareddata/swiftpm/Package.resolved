@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dinonetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/oskarko/DinoNetworking",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dbf946eb8ec977e298053bee3a40eaff17b2854f"
+      }
+    }
+  ],
+  "version" : 2
+}
